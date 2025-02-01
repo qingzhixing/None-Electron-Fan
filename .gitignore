@@ -5,3 +5,4 @@ __pycache__/
 Lagrange.OneBot/
 *.lock
 *.private
+.env.prod
