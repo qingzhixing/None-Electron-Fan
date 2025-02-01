@@ -1,0 +1,6 @@
+.pdm-python
+__pycache__/
+.venv/
+.vscode/
+Lagrange.OneBot/
+*.lock
