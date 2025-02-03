@@ -2,7 +2,7 @@
 
 🎃新时代·电风扇 堂堂复活！
 
-# 🎋 如何启动
+## 🎋 如何启动
 
 1. 运行 `pdm install`  -> [简介 - PDM](https://pdm-project.org/zh-cn/latest/)
 2. 下载 [Lagrange](https://github.com/LagrangeDev/Lagrange.Core)
@@ -15,3 +15,8 @@
 ## 🌈NoneBot Documentation
 
 [nonebot.dev](nonebot.dev)
+
+## 🎀 Milestones
+
+🍒 能不能好好说话? 神奇海螺api实现的bot 缩写翻译插件 2025.2.3
+![nbnhhsh_plugin.png](./static/nbnhhsh_plugin.png)
