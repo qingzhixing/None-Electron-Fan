@@ -15,15 +15,20 @@ dependencies = [
     "httpx>=0.28.1",
     "socksio>=1.0.0",
     "nonebot-adapter-console>=0.6.0",
+    "nonebot-plugin-nbnhhsh-q>=0.1.1",
 ]
 license = { text = "MIT" }
 
 [tool.nonebot]
 adapters = [
     { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" },
-    {name = "Console", module_name = "nonebot.adapters.console"},
+    { name = "Console", module_name = "nonebot.adapters.console" },
 ]
-plugins = ["nonebot_plugin_status", "nonebot_plugin_setu_now"]
+plugins = [
+    "nonebot_plugin_status",
+    "nonebot_plugin_setu_now",
+    "nonebot_plugin_nbnhhsh_q",
+]
 plugin_dirs = ["fan-plugins/"]
 builtin_plugins = ["echo"]
 
