@@ -3,7 +3,7 @@ name = "None-Electron-Fan"
 version = "0.1.0"
 description = "Default template for PDM package"
 readme = "README.md"
-requires-python = "==3.11.*"
+requires-python = "==3.13.*"
 authors = [{ name = "qingzhixing", email = "qzsptmail@protonmail.com" }]
 dependencies = [
     "nonebot2>=2.4.1",
@@ -16,6 +16,7 @@ dependencies = [
     "socksio>=1.0.0",
     "nonebot-adapter-console>=0.6.0",
     "nonebot-plugin-nbnhhsh-q>=0.1.1",
+    "fastapi>=0.116.1",
 ]
 license = { text = "MIT" }
 
