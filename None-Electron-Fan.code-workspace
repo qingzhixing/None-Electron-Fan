@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "Arduino Nano Playbord",
-			"path": "C:/Users/QingzhiStar/Documents/PlatformIO/Projects/Arduino Nano Playbord"
 		}
 	],
 	"settings": {}
